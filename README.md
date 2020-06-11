@@ -6,4 +6,5 @@
 - Brownian Motion
 - Calculating Pi
 - Gambler vs Casino
+- Markov-Chain Simulation of Gas Particles
 - The Drunkard's Walk
